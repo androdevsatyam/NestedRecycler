@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">NestedRecycler</string>
+
+<string name="img_url">https://img.youtube.com/vi/</string>
+<string name="load_url">https://media4.giphy.com/media/xTk9ZvMnbIiIew7IpW/200w.webp?cid=ecf05e47jiwp7vrn0w10lnh20c7j9c3p5bbt3qg69olv851w&amp;rid=200w.webp</string>
+<string name="title">Title</string>
+<string name="thumb">thumb</string>
+</resources>
